@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karimalisal9-sudo.github.io/privatechef/sitemap.xml
