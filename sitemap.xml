@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url><loc>https://karimalisal9-sudo.github.io/privatechef/</loc><lastmod>2026-11-08</lastmod>
+  <url><loc>https://karimalisal9-sudo.github.io/privatechef/</loc><lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="de" href="https://karimalisal9-sudo.github.io/privatechef/de.html"/></url>
-  <url><loc>https://karimalisal9-sudo.github.io/privatechef/de.html</loc><lastmod>2026-11-08</lastmod>
+  <url><loc>https://karimalisal9-sudo.github.io/privatechef/de.html</loc><lastmod>2026-11-09</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://karimalisal9-sudo.github.io/privatechef/"/></url>
+  <url><loc>https://karimalisal9-sudo.github.io/privatechef/gastein.html</loc><lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://karimalisal9-sudo.github.io/privatechef/gastein-en.html"/></url>
+  <url><loc>https://karimalisal9-sudo.github.io/privatechef/gastein-en.html</loc><lastmod>2026-11-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://karimalisal9-sudo.github.io/privatechef/gastein.html"/></url>
 </urlset>
