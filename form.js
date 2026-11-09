@@ -23,6 +23,6 @@ document.addEventListener('click', function (e) {
       f.message.value
     ];
     if (window.goatcounter && window.goatcounter.count) window.goatcounter.count({ path: 'form-request', title: location.pathname, event: true });
-    window.location.href = 'https://wa.me/306975985318?text=' + encodeURIComponent(lines.join('\n'));
+    window.location.href = 'https://wa.me/306983592413?text=' + encodeURIComponent(lines.join('\n'));
   });
 })();
